@@ -22,7 +22,7 @@ As a Teaching Assistant, I often mark exams for course instructors. Midterm exam
 
 >   **Try below things to better interact with visuals and explore more insights:**
 >
-> *   Open in full-screen mode by clicking ![full-screen.PNG](https://raw.githubusercontent.com/shuonaweng/shuonaweng.github.io/main/_includes/full-screen.PNG)
+> *   Open in full-screen mode by clicking ![full-screen.PNG](https://raw.githubusercontent.com/shuonaweng/shuonaweng.githut.io/main/_includes/full-screen.PNG)
 > *   Click slicer
 > *   Click button
 > *   Click data point on visual
