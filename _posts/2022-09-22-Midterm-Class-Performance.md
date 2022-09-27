@@ -8,11 +8,11 @@ categories: [Power BI, Real-world Case, Sample]
 
 ## Overview
 
-This is a sample report based on Class Performance analysis of a Midterm exam. It visualizes performance statistics, explores root causes and common mistakes, and recommends area to improve. It helps course instructors to understand students' progress on the course and gives them insights to adjust teaching plan if needed. 
+This is a sample report based on Class Performance Analysis of a Midterm exam. It visualizes performance statistics, explores root causes and common mistakes, and recommends areas to improve. It helps course instructors to understand students' progress on the course and gives them insights to adjust teaching plans if needed. 
 
 ## Senario
 
-As a Teaching Assistant, I often mark exams for course instructors. Midterm exam is a good way to check students' understanding of knowledge taught, as well as takeaways on teaching plan. Therefore, it's important to knowing how does it go. To provide a quick overview of Class performance in the exam, I recently create a wonderful report with Power BI.  
+As a Teaching Assistant, I often mark exams for course instructors. Midterm exam is a good way to check students' understanding of the knowledge taught, as well as takeaways for teaching plans. Therefore, it's important to know how it goes. To provide a quick overview of class performance in the exam, I recently created a wonderful report with Power BI.  
 
 
 ## Report
@@ -20,7 +20,7 @@ As a Teaching Assistant, I often mark exams for course instructors. Midterm exam
 <iframe title="Midterm Class Performance (GitHub)" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiYjg0YzAxNGEtMDBmYi00ZTNiLTkyODctNzliMzRmMzgwY2I1IiwidCI6IjVlOGU0ZDFmLTRlM2MtNDQzYS04OWQ1LWIwOGI4ZmVlMDI0NyJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 
 
->   **Try below things to better interact with visuals and explore more insights:**
+>   **Try things below to better interact with visuals and explore more insights:**
 >
 > *   Open in full-screen mode by clicking ![full-screen.PNG](https://raw.githubusercontent.com/shuonaweng/shuonaweng.githut.io/main/_includes/full-screen.PNG)
 > *   Click slicer
