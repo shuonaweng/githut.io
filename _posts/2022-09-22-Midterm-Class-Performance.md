@@ -17,7 +17,7 @@ As a Teaching Assistant, I often mark exams for course instructors. Midterm exam
 
 ## Report
 
-<iframe title="Midterm Class Performance (GitHub) - Navigation Page" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiYjY1MTE1YmQtMDY1Ny00ZmJlLWI1ZGMtZDVhY2FkODhmMjAyIiwidCI6IjBhMGQzNzZjLTM3OGItNDZlYy04YjAyLTNmYmM2ZTU0MGRkZSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Report Section" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiYmFmNzI3MGMtN2ZkZS00ZDhlLWFlYWYtMGNkYjc4MThjOWI4IiwidCI6IjM1ZmRjNzUyLWY0YmEtNDA2Ny1hOTY2LWM5MzJhNzNjN2IyYyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 >   **Try things below to better interact with visuals and explore more insights:**
